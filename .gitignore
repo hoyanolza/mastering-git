@@ -1,0 +1,10 @@
+# .gitignore
+# Designate files and directories not to be traced by Git
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Dependency directories
+node_modules/
